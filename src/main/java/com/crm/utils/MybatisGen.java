@@ -39,7 +39,7 @@ public class MybatisGen {
                 })
                 .packageConfig(builder -> {
                     builder.parent("com") // 设置父包名
-                            .moduleName("crm") // 设置父包模块名
+                            .moduleName("crm") // 设置父包模块名git
                             .pathInfo(outputFileStringMap);
                          // 设置mapperXml生成路径
                 })
