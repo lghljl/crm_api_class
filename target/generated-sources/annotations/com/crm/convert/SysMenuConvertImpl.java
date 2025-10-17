@@ -8,7 +8,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-10-12T10:24:04+0800",
+    date = "2025-10-12T16:07:35+0800",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 21.0.6 (JetBrains s.r.o.)"
 )
 public class SysMenuConvertImpl implements SysMenuConvert {
